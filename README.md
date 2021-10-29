@@ -3,12 +3,14 @@
 - 🌱 I’m currently learning Web Development to do as a hobby 
 - 📫 How to reach me : 
   -  Email: j_b591@outlook.com
-# What I Can Do
+# What I Do
 
 - I develope scripts that need to be automated
 - I automate sensor dependednt devices
 - I work with embeded devices
 - I automate data 
+- Create visual representations of data
+- Develop front end websites
 
 <!---
 Jb591/Jb591 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
